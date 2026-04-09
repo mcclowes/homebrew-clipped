@@ -1,7 +1,7 @@
 cask "clipped" do
-  version "v0.1.7"
-  sha256 "07af8a44bab256f39117944eb065e5d7c9e26167f357fb6e5e8ad57cd41fdc1b"
-  url "https://github.com/mcclowes/clipped/releases/download/v0.1.7/Clipped.zip"
+  version "v0.2.0"
+  sha256 "3df1c712b7febf148c3330ec8dbe5fc0f4ccc7f3717cfb2a3fd04526bdeb39aa"
+  url "https://github.com/mcclowes/clipped/releases/download/v0.2.0/Clipped.zip"
   name "Clipped"
   desc "Native macOS clipboard manager"
   homepage "https://github.com/mcclowes/clipped"
