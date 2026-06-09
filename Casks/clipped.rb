@@ -1,12 +1,12 @@
 cask "clipped" do
-  version "v1.5.0"
-  sha256 "9d163686901797f6e9e606a9d5438865bc77b98bd02ca811a93f27adaa237ea5"
-  url "https://github.com/mcclowes/clipped/releases/download/v1.5.0/Clipped.zip"
+  version "v1.6.0"
+  sha256 "16b4c61329dc9e27c51a75435439a60ece8334187d2723a1189dd235f2bf7fa5"
+  url "https://github.com/mcclowes/clipped/releases/download/v1.6.0/Clipped.zip"
   name "Clipped"
   desc "Native macOS clipboard manager"
   homepage "https://github.com/mcclowes/clipped"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Clipped.app"
 
