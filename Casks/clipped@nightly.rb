@@ -1,8 +1,8 @@
 cask "clipped@nightly" do
-  version "1.0.0,1793241257"
-  sha256 "6300c0618d5541fd74a3b1d392bc034da4e91047bf217b5afb424181eb0ea730"
+  version "3.0.0,1793413748"
+  sha256 "640141f51729a5c8d3532cc46c3354804defa0bf8bd7b93a6301792bc81c4e3d"
 
-  url "https://github.com/mcclowes/clipped/releases/download/nightly-homebrew-40806765375-1/Clipped.zip"
+  url "https://github.com/mcclowes/clipped/releases/download/nightly-homebrew-41160005304-1/Clipped.zip"
   name "Clipped"
   desc "Clipboard manager"
   homepage "https://github.com/mcclowes/clipped"
